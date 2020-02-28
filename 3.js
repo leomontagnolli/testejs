@@ -1,4 +1,4 @@
-let name = "madam";
+let name = "dsfdsf";
 let nameInverso = name.split("").reverse("").join("");
 
 if (nameInverso == name) {
